@@ -1,0 +1,120 @@
+{
+  "paintBrands": [
+    {
+      "id": "benjamin-moore",
+      "name": "Benjamin Moore",
+      "logo": "/brands/benjamin-moore-logo.svg",
+      "description": "Premium quality paints known for their durability and color accuracy. We're a certified Benjamin Moore contractor.",
+      "products": [
+        {
+          "name": "Aura®",
+          "type": "Interior/Exterior",
+          "description": "Premium paint with Color Lock® technology for exceptional durability and color retention."
+        },
+        {
+          "name": "Regal® Select",
+          "type": "Interior/Exterior",
+          "description": "Professional-grade paint offering excellent coverage and washability."
+        },
+        {
+          "name": "ben®",
+          "type": "Interior/Exterior",
+          "description": "Quality paint with excellent value, perfect for new construction and repaints."
+        }
+      ],
+      "certifications": ["EPA", "LEED", "GREENGUARD Gold"]
+    },
+    {
+      "id": "sherwin-williams",
+      "name": "Sherwin-Williams",
+      "logo": "/brands/sherwin-williams-logo.svg",
+      "description": "Industry-leading paints with innovative technology. We're a Sherwin-Williams preferred contractor.",
+      "products": [
+        {
+          "name": "Duration®",
+          "type": "Interior/Exterior",
+          "description": "Self-priming paint with exceptional durability and moisture resistance."
+        },
+        {
+          "name": "Emerald®",
+          "type": "Interior/Exterior",
+          "description": "Premium paint with advanced stain-blocking technology."
+        },
+        {
+          "name": "ProMar® 200",
+          "type": "Interior",
+          "description": "Professional-grade paint with excellent hide and touchup capabilities."
+        }
+      ],
+      "certifications": ["GreenGuard", "MPI", "EPA"]
+    },
+    {
+      "id": "romabio",
+      "name": "ROMABIO",
+      "logo": "/brands/romabio-logo.svg",
+      "description": "Authentic Italian mineral-based paints, specializing in limewash and masonry finishes.",
+      "products": [
+        {
+          "name": "Classico Limewash",
+          "type": "Exterior",
+          "description": "Authentic slaked-lime finish for brick, stone, and other masonry surfaces."
+        },
+        {
+          "name": "Masonry Paint",
+          "type": "Exterior",
+          "description": "Highly durable mineral-based paint for masonry surfaces."
+        },
+        {
+          "name": "Interior Paint",
+          "type": "Interior",
+          "description": "Zero VOC mineral-based paint for beautiful, healthy interiors."
+        }
+      ],
+      "certifications": ["HPD", "EPD", "Cradle to Cradle"]
+    },
+    {
+      "id": "farrow-ball",
+      "name": "Farrow & Ball",
+      "logo": "/brands/farrow-ball-logo.svg",
+      "description": "Luxury British paints known for their deep, rich colors and eco-friendly formulations.",
+      "products": [
+        {
+          "name": "Estate Emulsion",
+          "type": "Interior",
+          "description": "Signature chalky, flat finish with exceptional depth of color."
+        },
+        {
+          "name": "Modern Emulsion",
+          "type": "Interior",
+          "description": "Durable, washable finish perfect for high-traffic areas."
+        },
+        {
+          "name": "Exterior Eggshell",
+          "type": "Exterior",
+          "description": "Weather-resistant finish with a subtle sheen."
+        }
+      ],
+      "certifications": ["Low VOC", "Eco-Friendly"]
+    }
+  ],
+  "specialtyProducts": [
+    {
+      "id": "festool",
+      "name": "Festool",
+      "category": "Tools",
+      "description": "Premium German-engineered tools for dust-free sanding and preparation."
+    },
+    {
+      "id": "graco",
+      "name": "Graco",
+      "category": "Equipment",
+      "description": "Professional spray equipment for flawless paint application."
+    },
+    {
+      "id": "3m",
+      "name": "3M",
+      "category": "Preparation",
+      "description": "Industry-leading masking and surface protection products."
+    }
+  ]
+} 

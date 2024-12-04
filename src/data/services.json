@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "name": "Interior Painting",
+    "slug": "interior-painting",
+    "description": "Professional interior painting services for homes and businesses."
+  },
+  {
+    "id": 2,
+    "name": "Exterior Painting",
+    "slug": "exterior-painting",
+    "description": "Expert exterior painting services for homes and businesses."
+  },
+  {
+    "id": 3,
+    "name": "Cabinet Painting",
+    "slug": "cabinet-painting",
+    "description": "Specialized cabinet refinishing and painting services."
+  },
+  {
+    "id": 4,
+    "name": "Brick Painting",
+    "slug": "brick-painting",
+    "description": "Transform your brick surfaces with professional painting."
+  },
+  {
+    "id": 5,
+    "name": "Limewash",
+    "slug": "limewash",
+    "description": "Traditional limewash application for a unique, old-world aesthetic."
+  },
+  {
+    "id": 6,
+    "name": "Fence Staining",
+    "slug": "fence-staining",
+    "description": "Professional fence staining and sealing services."
+  },
+  {
+    "id": 7,
+    "name": "Deck Staining",
+    "slug": "deck-staining",
+    "description": "Expert deck staining and sealing services."
+  },
+  {
+    "id": 8,
+    "name": "Power Washing",
+    "slug": "power-washing",
+    "description": "Professional power washing for all surfaces."
+  },
+  {
+    "id": 9,
+    "name": "Drywall Repair",
+    "slug": "drywall-repair",
+    "description": "Expert drywall repair and finishing services."
+  },
+  {
+    "id": 10,
+    "name": "Popcorn Ceiling Removal",
+    "slug": "popcorn-ceiling-removal",
+    "description": "Professional popcorn ceiling removal services."
+  },
+  {
+    "id": 11,
+    "name": "Texture Ceiling",
+    "slug": "texture-ceiling",
+    "description": "Custom ceiling texturing services."
+  },
+  {
+    "id": 12,
+    "name": "Pressure Washing",
+    "slug": "pressure-washing",
+    "description": "Professional pressure washing services."
+  },
+  {
+    "id": 13,
+    "name": "Stucco Repair",
+    "slug": "stucco-repair",
+    "description": "Expert stucco repair and refinishing."
+  },
+  {
+    "id": 14,
+    "name": "Wallpaper Installation",
+    "slug": "wallpaper",
+    "description": "Professional wallpaper installation services."
+  },
+  {
+    "id": 15,
+    "name": "Condo Painting",
+    "slug": "condo-painting",
+    "description": "Specialized condo painting services."
+  },
+  {
+    "id": 16,
+    "name": "Caulking",
+    "slug": "caulking",
+    "description": "Professional caulking services."
+  },
+  {
+    "id": 17,
+    "name": "Interior Limewash",
+    "slug": "interior-limewash",
+    "description": "Specialized interior limewash application."
+  },
+  {
+    "id": 18,
+    "name": "Plaster Finish",
+    "slug": "plaster-finish",
+    "description": "Custom plaster finishing services."
+  },
+  {
+    "id": 19,
+    "name": "Carpentry",
+    "slug": "carpentry",
+    "description": "Professional carpentry services."
+  },
+  {
+    "id": 20,
+    "name": "Odor Removal",
+    "slug": "odor-removal",
+    "description": "Professional odor removal services."
+  },
+  {
+    "id": 21,
+    "name": "Drywall Patch",
+    "slug": "drywall-patch",
+    "description": "Expert drywall patching services."
+  },
+  {
+    "id": 22,
+    "name": "Declutter Services",
+    "slug": "declutter",
+    "description": "Professional decluttering services."
+  }
+] 

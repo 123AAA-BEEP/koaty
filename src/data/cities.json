@@ -1,0 +1,296 @@
+[
+  {
+    "id": "toronto",
+    "name": "Toronto",
+    "slug": "toronto",
+    "region": "Greater Toronto Area",
+    "isMainCity": true
+  },
+  {
+    "id": "mississauga",
+    "name": "Mississauga",
+    "slug": "mississauga",
+    "region": "Peel Region",
+    "isMainCity": true
+  },
+  {
+    "id": "brampton",
+    "name": "Brampton",
+    "slug": "brampton",
+    "region": "Peel Region",
+    "isMainCity": true
+  },
+  {
+    "id": "oakville",
+    "name": "Oakville",
+    "slug": "oakville",
+    "region": "Halton Region",
+    "isMainCity": true
+  },
+  {
+    "id": "burlington",
+    "name": "Burlington",
+    "slug": "burlington",
+    "region": "Halton Region",
+    "isMainCity": true
+  },
+  {
+    "id": "milton",
+    "name": "Milton",
+    "slug": "milton",
+    "region": "Halton Region",
+    "isMainCity": true
+  },
+  {
+    "id": "vaughan",
+    "name": "Vaughan",
+    "slug": "vaughan",
+    "region": "York Region",
+    "isMainCity": true
+  },
+  {
+    "id": "richmond-hill",
+    "name": "Richmond Hill",
+    "slug": "richmond-hill",
+    "region": "York Region",
+    "isMainCity": true
+  },
+  {
+    "id": "markham",
+    "name": "Markham",
+    "slug": "markham",
+    "region": "York Region",
+    "isMainCity": true
+  },
+  {
+    "id": "ajax",
+    "name": "Ajax",
+    "slug": "ajax",
+    "region": "Durham Region",
+    "isMainCity": true
+  },
+  {
+    "id": "pickering",
+    "name": "Pickering",
+    "slug": "pickering",
+    "region": "Durham Region",
+    "isMainCity": true
+  },
+  {
+    "id": "whitby",
+    "name": "Whitby",
+    "slug": "whitby",
+    "region": "Durham Region",
+    "isMainCity": true
+  },
+  {
+    "id": "oshawa",
+    "name": "Oshawa",
+    "slug": "oshawa",
+    "region": "Durham Region",
+    "isMainCity": true
+  },
+  {
+    "id": "aurora",
+    "name": "Aurora",
+    "slug": "aurora",
+    "region": "York Region",
+    "isMainCity": false
+  },
+  {
+    "id": "newmarket",
+    "name": "Newmarket",
+    "slug": "newmarket",
+    "region": "York Region",
+    "isMainCity": false
+  },
+  {
+    "id": "georgetown",
+    "name": "Georgetown",
+    "slug": "georgetown",
+    "region": "Halton Region",
+    "isMainCity": false
+  },
+  {
+    "id": "bolton",
+    "name": "Bolton",
+    "slug": "bolton",
+    "region": "Peel Region",
+    "isMainCity": false
+  },
+  {
+    "id": "stouffville",
+    "name": "Stouffville",
+    "slug": "stouffville",
+    "region": "York Region",
+    "isMainCity": false
+  },
+  {
+    "id": "king-city",
+    "name": "King City",
+    "slug": "king-city",
+    "region": "York Region",
+    "isMainCity": false
+  },
+  {
+    "id": "maple",
+    "name": "Maple",
+    "slug": "maple",
+    "region": "York Region",
+    "isMainCity": false
+  },
+  {
+    "id": "woodbridge",
+    "name": "Woodbridge",
+    "slug": "woodbridge",
+    "region": "York Region",
+    "isMainCity": false
+  },
+  {
+    "id": "etobicoke",
+    "name": "Etobicoke",
+    "slug": "etobicoke",
+    "region": "Toronto",
+    "isMainCity": true
+  },
+  {
+    "id": "scarborough",
+    "name": "Scarborough",
+    "slug": "scarborough",
+    "region": "Toronto",
+    "isMainCity": true
+  },
+  {
+    "id": "north-york",
+    "name": "North York",
+    "slug": "north-york",
+    "region": "Toronto",
+    "isMainCity": true
+  },
+  {
+    "id": "east-york",
+    "name": "East York",
+    "slug": "east-york",
+    "region": "Toronto",
+    "isMainCity": true
+  },
+  {
+    "id": "thornhill",
+    "name": "Thornhill",
+    "slug": "thornhill",
+    "region": "York Region",
+    "isMainCity": false
+  },
+  {
+    "id": "caledon",
+    "name": "Caledon",
+    "slug": "caledon",
+    "region": "Peel Region",
+    "isMainCity": false
+  },
+  {
+    "id": "bradford",
+    "name": "Bradford",
+    "slug": "bradford",
+    "region": "Simcoe County",
+    "isMainCity": false
+  },
+  {
+    "id": "east-gwillimbury",
+    "name": "East Gwillimbury",
+    "slug": "east-gwillimbury",
+    "region": "York Region",
+    "isMainCity": false
+  },
+  {
+    "id": "kleinburg",
+    "name": "Kleinburg",
+    "slug": "kleinburg",
+    "region": "York Region",
+    "isMainCity": false
+  },
+  {
+    "id": "port-perry",
+    "name": "Port Perry",
+    "slug": "port-perry",
+    "region": "Durham Region",
+    "isMainCity": false
+  },
+  {
+    "id": "bowmanville",
+    "name": "Bowmanville",
+    "slug": "bowmanville",
+    "region": "Durham Region",
+    "isMainCity": false
+  },
+  {
+    "id": "clarington",
+    "name": "Clarington",
+    "slug": "clarington",
+    "region": "Durham Region",
+    "isMainCity": false
+  },
+  {
+    "id": "hamilton",
+    "name": "Hamilton",
+    "slug": "hamilton",
+    "region": "Hamilton Region",
+    "isMainCity": true
+  },
+  {
+    "id": "ancaster",
+    "name": "Ancaster",
+    "slug": "ancaster",
+    "region": "Hamilton Region",
+    "isMainCity": false
+  },
+  {
+    "id": "dundas",
+    "name": "Dundas",
+    "slug": "dundas",
+    "region": "Hamilton Region",
+    "isMainCity": false
+  },
+  {
+    "id": "stoney-creek",
+    "name": "Stoney Creek",
+    "slug": "stoney-creek",
+    "region": "Hamilton Region",
+    "isMainCity": false
+  },
+  {
+    "id": "guelph",
+    "name": "Guelph",
+    "slug": "guelph",
+    "region": "Wellington County",
+    "isMainCity": true
+  },
+  {
+    "id": "cambridge",
+    "name": "Cambridge",
+    "slug": "cambridge",
+    "region": "Waterloo Region",
+    "isMainCity": true
+  },
+  {
+    "id": "waterloo",
+    "name": "Waterloo",
+    "slug": "waterloo",
+    "region": "Waterloo Region",
+    "isMainCity": true
+  },
+  {
+    "id": "kitchener",
+    "name": "Kitchener",
+    "slug": "kitchener",
+    "region": "Waterloo Region",
+    "isMainCity": true
+  },
+  {
+    "id": "waterdown",
+    "name": "Waterdown",
+    "slug": "waterdown",
+    "region": "Hamilton Region",
+    "isMainCity": false
+  }
+] 

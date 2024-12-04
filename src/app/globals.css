@@ -1,0 +1,174 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Base styles */
+@layer base {
+  :root {
+    --background: #F8FAFC;
+    --primary: #3B82F6;
+    --primary-hover: #2563EB;
+  }
+
+  body {
+    @apply bg-[#F8FAFC] text-gray-900 antialiased;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-bold tracking-tight;
+  }
+}
+
+/* Component styles */
+@layer components {
+  /* Layout */
+  .container {
+    @apply max-w-7xl mx-auto px-4 sm:px-6 lg:px-8;
+  }
+
+  /* Header & Navigation */
+  .top-bar {
+    @apply bg-white py-2 border-b border-gray-100;
+  }
+
+  .top-bar-link {
+    @apply flex items-center text-gray-600 hover:text-blue-600 text-sm transition-colors;
+  }
+
+  .nav-container {
+    @apply bg-white border-b border-gray-100 sticky top-0 z-50;
+  }
+
+  .nav-inner {
+    @apply h-20 flex items-center justify-between;
+  }
+
+  .nav-link {
+    @apply text-gray-900 hover:text-blue-600 font-medium transition-colors relative py-2;
+  }
+
+  .nav-link::after {
+    content: '';
+    @apply absolute bottom-0 left-0 w-0 h-0.5 bg-blue-600 transition-all duration-200;
+  }
+
+  .nav-link:hover::after {
+    @apply w-full;
+  }
+
+  .dropdown {
+    @apply absolute top-full left-0 mt-2 w-48 bg-white rounded-lg shadow-lg opacity-0 invisible 
+    group-hover:opacity-100 group-hover:visible transition-all duration-200 transform 
+    group-hover:translate-y-0 translate-y-2;
+  }
+
+  .dropdown-item {
+    @apply block px-4 py-2 text-sm text-gray-700 hover:bg-blue-50 transition-colors;
+  }
+
+  /* Buttons */
+  .btn {
+    @apply inline-flex items-center justify-center px-6 py-3 rounded-lg font-medium 
+    transition-all duration-200 text-center;
+  }
+
+  .btn-primary {
+    @apply bg-blue-500 text-white hover:bg-blue-600 shadow-sm hover:shadow-md;
+  }
+
+  .btn-secondary {
+    @apply bg-white text-gray-900 border border-gray-200 hover:bg-gray-50;
+  }
+
+  .btn-icon {
+    @apply inline-flex items-center justify-center;
+  }
+
+  /* Hero Section */
+  .hero {
+    @apply relative pt-24 pb-16 overflow-hidden;
+  }
+
+  .hero-content {
+    @apply relative z-10;
+  }
+
+  .hero-title {
+    @apply text-5xl lg:text-6xl font-bold text-gray-900 mb-6;
+  }
+
+  .hero-description {
+    @apply text-xl text-gray-600 mb-8;
+  }
+
+  .hero-buttons {
+    @apply flex flex-col sm:flex-row gap-4;
+  }
+
+  .hero-location {
+    @apply flex items-center mt-8 text-gray-600;
+  }
+
+  /* Cards */
+  .service-card {
+    @apply bg-white rounded-xl p-6 shadow-sm hover:shadow-md transition-all duration-200;
+  }
+
+  .service-icon {
+    @apply w-12 h-12 bg-blue-500 rounded-full flex items-center justify-center text-white mb-6;
+  }
+
+  .service-title {
+    @apply text-xl font-semibold mb-3;
+  }
+
+  .service-description {
+    @apply text-gray-600 mb-4;
+  }
+
+  .service-link {
+    @apply text-blue-500 hover:text-blue-600 font-medium inline-flex items-center;
+  }
+
+  /* Sections */
+  .section {
+    @apply py-16 md:py-24;
+  }
+
+  .section-title {
+    @apply text-center mb-12;
+  }
+
+  .section-label {
+    @apply text-blue-500 text-sm font-medium uppercase tracking-wide;
+  }
+
+  .section-heading {
+    @apply text-3xl font-bold mt-2;
+  }
+
+  /* Footer */
+  .footer {
+    @apply bg-white border-t border-gray-100;
+  }
+
+  .footer-content {
+    @apply py-12 md:py-16;
+  }
+
+  .footer-title {
+    @apply text-lg font-semibold mb-4;
+  }
+
+  .footer-link {
+    @apply text-gray-600 hover:text-blue-600 transition-colors;
+  }
+}
+
+/* Utilities */
+@layer utilities {
+  .text-gradient {
+    @apply bg-clip-text text-transparent bg-gradient-to-r from-blue-600 to-blue-800;
+  }
+}
+ 
